@@ -1,2 +1,2 @@
 # elasticsearch-binaries
-Repo for storing needed binaries for Codeship builds.
+Due to a known issue with Codeship getting binaries from Elasticsearch we are forced to host these seperatly.
